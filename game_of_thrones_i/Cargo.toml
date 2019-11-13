@@ -1,7 +1,7 @@
 [package]
 name = "game_of_thrones_i"
 version = "0.1.0"
-authors = ["denis-p <denis-p@yandex-team.ru>"]
+authors = ["qadmium <denis.podgorodnichenko@yandex.ru>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
