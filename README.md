@@ -1,6 +1,11 @@
 # hackerrank_rust
 HackerRank problems solved with Rust
 
+![GitHub last commit](https://img.shields.io/github/last-commit/qadmium/hackerrank_rust?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/qadmium/hackerrank_rust?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/qadmium/hackerrank_rust?style=flat-square)
+[![GitHub license](https://img.shields.io/github/license/qadmium/hackerrank_rust?style=flat-square)](https://github.com/qadmium/hackerrank_rust/blob/master/LICENSE)
+
 ## Constructive Algorithms
 New Year Chaos [Hackerrank](https://www.hackerrank.com/challenges/new-year-chaos/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/new_year_chaos)
 
