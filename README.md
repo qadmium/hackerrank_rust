@@ -18,6 +18,8 @@ Between Two Sets [Hackerrank](https://www.hackerrank.com/challenges/between-two-
 
 Bon Appétit [Hackerrank](https://www.hackerrank.com/challenges/bon-appetit/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/bon_appetit)
 
+Day of the Programmer [Hackerrank](https://www.hackerrank.com/challenges/day-of-the-programmer/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/day_of_the_programmer)
+
 Divisible Sum Pairs [Hackerrank](https://www.hackerrank.com/challenges/divisible-sum-pairs/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/divisible_sum_pairs)
 
 Jumping on the Clouds [Hackerrank](https://www.hackerrank.com/challenges/jumping-on-the-clouds/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/jumping_on_the_clouds)
