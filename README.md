@@ -43,6 +43,8 @@ Beautiful Binary String [Hackerrank](https://www.hackerrank.com/challenges/beaut
 
 Common Child [Hackerrank](https://www.hackerrank.com/challenges/common-child/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/common_child)
 
+Funny String [Hackerrank](https://www.hackerrank.com/challenges/funny-string/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/funny_string)
+
 Game of Thrones - I [Hackerrank](https://www.hackerrank.com/challenges/game-of-thrones/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/game_of_thrones_i)
 
 Gemstones [Hackerrank](https://www.hackerrank.com/challenges/gem-stones/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/gemstones)
