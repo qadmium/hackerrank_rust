@@ -16,7 +16,9 @@ Max Min [Hackerrank](https://www.hackerrank.com/challenges/angry-children/) [src
 
 Minimum Absolute Difference in an Array [Hackerrank](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/minimum_abs_difference)
 
-Permuting Two Arrays [Hackerrank](https://github.com/qadmium/hackerrank_rust/tree/master/permuting_two_arrays) [src](https://github.com/qadmium/hackerrank_rust/tree/master/permuting_two_arrays)
+Permuting Two Arrays [Hackerrank](https://www.hackerrank.com/challenges/two-arrays/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/permuting_two_arrays)
+
+Reverse Shuffle Merge [Hackerrank](https://www.hackerrank.com/challenges/reverse-shuffle-merge/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/reverse_shuffle_merge)
 
 ## Implementation
 Between Two Sets [Hackerrank](https://www.hackerrank.com/challenges/between-two-sets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/between_two_sets)
