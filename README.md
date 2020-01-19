@@ -33,6 +33,8 @@ Divisible Sum Pairs [Hackerrank](https://www.hackerrank.com/challenges/divisible
 
 Jumping on the Clouds [Hackerrank](https://www.hackerrank.com/challenges/jumping-on-the-clouds/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/jumping_on_the_clouds)
 
+Picking Numbers [Hackerrank](https://www.hackerrank.com/challenges/picking-numbers/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/picking_numbers)
+
 Repeated String [Hackerrank](https://www.hackerrank.com/challenges/repeated-string/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/repeated_string)
 
 Sock Merchant [Hackerrank](https://www.hackerrank.com/challenges/sock-merchant/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sock_merchant)
