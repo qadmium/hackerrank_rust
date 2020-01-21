@@ -41,6 +41,9 @@ Repeated String [Hackerrank](https://www.hackerrank.com/challenges/repeated-stri
 
 Sock Merchant [Hackerrank](https://www.hackerrank.com/challenges/sock-merchant/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sock_merchant)
 
+## Search
+Pairs [Hackerrank](https://www.hackerrank.com/challenges/pairs/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/pairs)
+
 ## Sorting
 Fraudulent Activity Notifications [Hackerrank](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/fraudulent_activity_notifications)
 
