@@ -23,6 +23,8 @@ Permuting Two Arrays [Hackerrank](https://www.hackerrank.com/challenges/two-arra
 Reverse Shuffle Merge [Hackerrank](https://www.hackerrank.com/challenges/reverse-shuffle-merge/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/reverse_shuffle_merge)
 
 ## Implementation
+Angry Professor [Hackerrank](https://www.hackerrank.com/challenges/angry-professor/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/angry_professor)
+
 Between Two Sets [Hackerrank](https://www.hackerrank.com/challenges/between-two-sets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/between_two_sets)
 
 Bon Appétit [Hackerrank](https://www.hackerrank.com/challenges/bon-appetit/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/bon_appetit)
