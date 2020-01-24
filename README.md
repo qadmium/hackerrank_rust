@@ -25,6 +25,8 @@ Reverse Shuffle Merge [Hackerrank](https://www.hackerrank.com/challenges/reverse
 ## Implementation
 Angry Professor [Hackerrank](https://www.hackerrank.com/challenges/angry-professor/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/angry_professor)
 
+Beautiful Days at the Movies [Hackerrank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/beautiful_days_at_the_movies)
+
 Between Two Sets [Hackerrank](https://www.hackerrank.com/challenges/between-two-sets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/between_two_sets)
 
 Bon Appétit [Hackerrank](https://www.hackerrank.com/challenges/bon-appetit/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/bon_appetit)
