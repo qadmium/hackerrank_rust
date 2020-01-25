@@ -45,6 +45,8 @@ Repeated String [Hackerrank](https://www.hackerrank.com/challenges/repeated-stri
 
 Sock Merchant [Hackerrank](https://www.hackerrank.com/challenges/sock-merchant/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sock_merchant)
 
+Utopian Tree [Hackerrank](https://www.hackerrank.com/challenges/utopian-tree/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/utopian_tree)
+
 ## Search
 Pairs [Hackerrank](https://www.hackerrank.com/challenges/pairs/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/pairs)
 
