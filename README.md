@@ -47,6 +47,8 @@ Save the Prisoner! [Hackerrank](https://www.hackerrank.com/challenges/save-the-p
 
 Sock Merchant [Hackerrank](https://www.hackerrank.com/challenges/sock-merchant/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sock_merchant)
 
+Viral Advertising [Hackerrank](https://www.hackerrank.com/challenges/strange-advertising/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/viral_advertising)
+
 Utopian Tree [Hackerrank](https://www.hackerrank.com/challenges/utopian-tree/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/utopian_tree)
 
 ## Search
