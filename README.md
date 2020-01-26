@@ -43,6 +43,8 @@ Picking Numbers [Hackerrank](https://www.hackerrank.com/challenges/picking-numbe
 
 Repeated String [Hackerrank](https://www.hackerrank.com/challenges/repeated-string/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/repeated_string)
 
+Save the Prisoner! [Hackerrank](https://www.hackerrank.com/challenges/save-the-prisoner/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/save_the_prisoner)
+
 Sock Merchant [Hackerrank](https://www.hackerrank.com/challenges/sock-merchant/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sock_merchant)
 
 Utopian Tree [Hackerrank](https://www.hackerrank.com/challenges/utopian-tree/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/utopian_tree)
