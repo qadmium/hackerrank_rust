@@ -37,6 +37,8 @@ Designer PDF Viewer [Hackerrank](https://www.hackerrank.com/challenges/designer-
 
 Divisible Sum Pairs [Hackerrank](https://www.hackerrank.com/challenges/divisible-sum-pairs/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/divisible_sum_pairs)
 
+Find Digits [Hackerrank](https://www.hackerrank.com/challenges/find-digits/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/find_digits)
+
 Jumping on the Clouds [Hackerrank](https://www.hackerrank.com/challenges/jumping-on-the-clouds/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/jumping_on_the_clouds)
 
 Picking Numbers [Hackerrank](https://www.hackerrank.com/challenges/picking-numbers/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/picking_numbers)
@@ -47,9 +49,9 @@ Save the Prisoner! [Hackerrank](https://www.hackerrank.com/challenges/save-the-p
 
 Sock Merchant [Hackerrank](https://www.hackerrank.com/challenges/sock-merchant/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sock_merchant)
 
-Viral Advertising [Hackerrank](https://www.hackerrank.com/challenges/strange-advertising/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/viral_advertising)
-
 Utopian Tree [Hackerrank](https://www.hackerrank.com/challenges/utopian-tree/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/utopian_tree)
+
+Viral Advertising [Hackerrank](https://www.hackerrank.com/challenges/strange-advertising/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/viral_advertising)
 
 ## Search
 Pairs [Hackerrank](https://www.hackerrank.com/challenges/pairs/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/pairs)
