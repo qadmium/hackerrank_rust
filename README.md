@@ -49,6 +49,8 @@ Save the Prisoner! [Hackerrank](https://www.hackerrank.com/challenges/save-the-p
 
 Sequence Equation [Hackerrank](https://www.hackerrank.com/challenges/permutation-equation/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sequence_equation)
 
+Sherlock and Squares [Hackerrank](https://www.hackerrank.com/challenges/sherlock-and-squares/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sherlock_and_squares)
+
 Sock Merchant [Hackerrank](https://www.hackerrank.com/challenges/sock-merchant/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sock_merchant)
 
 Utopian Tree [Hackerrank](https://www.hackerrank.com/challenges/utopian-tree/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/utopian_tree)
