@@ -22,6 +22,8 @@ Permuting Two Arrays [Hackerrank](https://www.hackerrank.com/challenges/two-arra
 
 Reverse Shuffle Merge [Hackerrank](https://www.hackerrank.com/challenges/reverse-shuffle-merge/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/reverse_shuffle_merge)
 
+Sherlock and The Beast [Hackerrank](https://www.hackerrank.com/challenges/sherlock-and-the-beast/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/scherlock_and_the_beast)
+
 ## Implementation
 Angry Professor [Hackerrank](https://www.hackerrank.com/challenges/angry-professor/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/angry_professor)
 
