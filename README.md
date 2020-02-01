@@ -43,6 +43,8 @@ Find Digits [Hackerrank](https://www.hackerrank.com/challenges/find-digits/) [sr
 
 Jumping on the Clouds [Hackerrank](https://www.hackerrank.com/challenges/jumping-on-the-clouds/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/jumping_on_the_clouds)
 
+Library Fine [Hackerrank](https://www.hackerrank.com/challenges/library-fine/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/library_fine)
+
 Picking Numbers [Hackerrank](https://www.hackerrank.com/challenges/picking-numbers/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/picking_numbers)
 
 Repeated String [Hackerrank](https://www.hackerrank.com/challenges/repeated-string/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/repeated_string)
