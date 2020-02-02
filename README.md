@@ -51,6 +51,8 @@ Repeated String [Hackerrank](https://www.hackerrank.com/challenges/repeated-stri
 
 Save the Prisoner! [Hackerrank](https://www.hackerrank.com/challenges/save-the-prisoner/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/save_the_prisoner)
 
+Service Lane [Hackerrank](https://www.hackerrank.com/challenges/service-lane/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/service_lane)
+
 Sequence Equation [Hackerrank](https://www.hackerrank.com/challenges/permutation-equation/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sequence_equation)
 
 Sherlock and Squares [Hackerrank](https://www.hackerrank.com/challenges/sherlock-and-squares/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sherlock_and_squares)
