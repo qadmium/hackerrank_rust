@@ -12,6 +12,8 @@ New Year Chaos [Hackerrank](https://www.hackerrank.com/challenges/new-year-chaos
 ## Greedy
 Greedy Florist [Hackerrank](https://www.hackerrank.com/challenges/greedy-florist/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/greedy_florist)
 
+Jim and the Orders [Hackerrank](https://www.hackerrank.com/challenges/jim-and-the-orders/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/jim_and_the_orders)
+
 Luck Balance [Hackerrank](https://www.hackerrank.com/challenges/luck-balance/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/luck_balance)
 
 Max Min [Hackerrank](https://www.hackerrank.com/challenges/angry-children/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/max_min)
