@@ -10,6 +10,8 @@ HackerRank problems solved with Rust
 New Year Chaos [Hackerrank](https://www.hackerrank.com/challenges/new-year-chaos/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/new_year_chaos)
 
 ## Greedy
+Goodland Electricity [Hackerrank](https://www.hackerrank.com/challenges/pylons/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/goodland_electricity)
+
 Greedy Florist [Hackerrank](https://www.hackerrank.com/challenges/greedy-florist/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/greedy_florist)
 
 Jim and the Orders [Hackerrank](https://www.hackerrank.com/challenges/jim-and-the-orders/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/jim_and_the_orders)
