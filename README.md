@@ -31,6 +31,8 @@ Sherlock and The Beast [Hackerrank](https://www.hackerrank.com/challenges/sherlo
 ## Implementation
 Angry Professor [Hackerrank](https://www.hackerrank.com/challenges/angry-professor/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/angry_professor)
 
+Append and Delete [Hackerrank](https://www.hackerrank.com/challenges/append-and-delete/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/append_and_delete)
+
 Beautiful Days at the Movies [Hackerrank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/beautiful_days_at_the_movies)
 
 Between Two Sets [Hackerrank](https://www.hackerrank.com/challenges/between-two-sets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/between_two_sets)
