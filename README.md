@@ -39,6 +39,8 @@ Between Two Sets [Hackerrank](https://www.hackerrank.com/challenges/between-two-
 
 Bon Appétit [Hackerrank](https://www.hackerrank.com/challenges/bon-appetit/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/bon_appetit)
 
+Cut the sticks [Hackerrank](https://www.hackerrank.com/challenges/cut-the-sticks/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/cut_the_sticks)
+
 Day of the Programmer [Hackerrank](https://www.hackerrank.com/challenges/day-of-the-programmer/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/day_of_the_programmer)
 
 Designer PDF Viewer [Hackerrank](https://www.hackerrank.com/challenges/designer-pdf-viewer/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/designer_pdf_viewer)
