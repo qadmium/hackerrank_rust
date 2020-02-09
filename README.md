@@ -49,6 +49,8 @@ Designer PDF Viewer [Hackerrank](https://www.hackerrank.com/challenges/designer-
 
 Divisible Sum Pairs [Hackerrank](https://www.hackerrank.com/challenges/divisible-sum-pairs/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/divisible_sum_pairs)
 
+Equalize the Array [Hackerrank](https://www.hackerrank.com/challenges/equality-in-a-array/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/equalize_the_array)
+
 Extra Long Factorials [Hackerrank](https://www.hackerrank.com/challenges/extra-long-factorials/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/extra_long_factorials)
 
 Find Digits [Hackerrank](https://www.hackerrank.com/challenges/find-digits/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/find_digits)
