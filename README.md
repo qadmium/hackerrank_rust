@@ -61,6 +61,8 @@ Library Fine [Hackerrank](https://www.hackerrank.com/challenges/library-fine/) [
 
 Picking Numbers [Hackerrank](https://www.hackerrank.com/challenges/picking-numbers/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/picking_numbers)
 
+Queen's Attack II [Hackerrank](https://www.hackerrank.com/challenges/queens-attack-2/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/queens_attack_2)
+
 Repeated String [Hackerrank](https://www.hackerrank.com/challenges/repeated-string/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/repeated_string)
 
 Save the Prisoner! [Hackerrank](https://www.hackerrank.com/challenges/save-the-prisoner/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/save_the_prisoner)
