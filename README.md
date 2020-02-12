@@ -31,6 +31,8 @@ Reverse Shuffle Merge [Hackerrank](https://www.hackerrank.com/challenges/reverse
 Sherlock and The Beast [Hackerrank](https://www.hackerrank.com/challenges/sherlock-and-the-beast/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/scherlock_and_the_beast)
 
 ## Implementation
+ACM ICPC Team [Hackerrank](https://www.hackerrank.com/challenges/acm-icpc-team/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/acm_icpc_team)
+
 Angry Professor [Hackerrank](https://www.hackerrank.com/challenges/angry-professor/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/angry_professor)
 
 Append and Delete [Hackerrank](https://www.hackerrank.com/challenges/append-and-delete/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/append_and_delete)
