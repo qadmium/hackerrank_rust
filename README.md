@@ -63,6 +63,8 @@ Jumping on the Clouds [Hackerrank](https://www.hackerrank.com/challenges/jumping
 
 Library Fine [Hackerrank](https://www.hackerrank.com/challenges/library-fine/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/library_fine)
 
+Organizing Containers of Balls [Hackerrank](https://www.hackerrank.com/challenges/organizing-containers-of-balls/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/)
+
 Picking Numbers [Hackerrank](https://www.hackerrank.com/challenges/picking-numbers/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/picking_numbers)
 
 Queen's Attack II [Hackerrank](https://www.hackerrank.com/challenges/queens-attack-2/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/queens_attack_2)
