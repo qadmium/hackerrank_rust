@@ -101,6 +101,8 @@ Alternating Characters [Hackerrank](https://www.hackerrank.com/challenges/altern
 
 Beautiful Binary String [Hackerrank](https://www.hackerrank.com/challenges/beautiful-binary-string/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/beautiful_binary_string)
 
+Caesar Cipher [Hackerrank](https://www.hackerrank.com/challenges/caesar-cipher-1/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/caesar_cipher)
+
 Common Child [Hackerrank](https://www.hackerrank.com/challenges/common-child/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/common_child)
 
 Funny String [Hackerrank](https://www.hackerrank.com/challenges/funny-string/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/funny_string)
