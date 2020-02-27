@@ -39,6 +39,8 @@ Append and Delete [Hackerrank](https://www.hackerrank.com/challenges/append-and-
 
 Beautiful Days at the Movies [Hackerrank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/beautiful_days_at_the_movies)
 
+Beautiful Triplets [Hackerrank](https://www.hackerrank.com/challenges/beautiful-triplets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/beautiful_triplets)
+
 Between Two Sets [Hackerrank](https://www.hackerrank.com/challenges/between-two-sets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/between_two_sets)
 
 Bon Appétit [Hackerrank](https://www.hackerrank.com/challenges/bon-appetit/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/bon_appetit)
