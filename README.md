@@ -37,6 +37,8 @@ Angry Professor [Hackerrank](https://www.hackerrank.com/challenges/angry-profess
 
 Append and Delete [Hackerrank](https://www.hackerrank.com/challenges/append-and-delete/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/append_and_delete)
 
+Cavity Map [Hackerrank](https://www.hackerrank.com/challenges/cavity-map/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/cavity_map)
+
 Beautiful Days at the Movies [Hackerrank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/beautiful_days_at_the_movies)
 
 Beautiful Triplets [Hackerrank](https://www.hackerrank.com/challenges/beautiful-triplets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/beautiful_triplets)
