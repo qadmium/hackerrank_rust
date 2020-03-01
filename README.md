@@ -37,8 +37,6 @@ Angry Professor [Hackerrank](https://www.hackerrank.com/challenges/angry-profess
 
 Append and Delete [Hackerrank](https://www.hackerrank.com/challenges/append-and-delete/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/append_and_delete)
 
-Cavity Map [Hackerrank](https://www.hackerrank.com/challenges/cavity-map/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/cavity_map)
-
 Beautiful Days at the Movies [Hackerrank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/beautiful_days_at_the_movies)
 
 Beautiful Triplets [Hackerrank](https://www.hackerrank.com/challenges/beautiful-triplets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/beautiful_triplets)
@@ -46,6 +44,8 @@ Beautiful Triplets [Hackerrank](https://www.hackerrank.com/challenges/beautiful-
 Between Two Sets [Hackerrank](https://www.hackerrank.com/challenges/between-two-sets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/between_two_sets)
 
 Bon Appétit [Hackerrank](https://www.hackerrank.com/challenges/bon-appetit/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/bon_appetit)
+
+Cavity Map [Hackerrank](https://www.hackerrank.com/challenges/cavity-map/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/cavity_map)
 
 Chocolate Feast [Hackerrank](https://www.hackerrank.com/challenges/chocolate-feast/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/chocolate_feast)
 
@@ -68,6 +68,8 @@ Find Digits [Hackerrank](https://www.hackerrank.com/challenges/find-digits/) [sr
 Jumping on the Clouds [Hackerrank](https://www.hackerrank.com/challenges/jumping-on-the-clouds/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/jumping_on_the_clouds)
 
 Library Fine [Hackerrank](https://www.hackerrank.com/challenges/library-fine/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/library_fine)
+
+Manasa and Stones [Hackerrank](https://www.hackerrank.com/challenges/manasa-and-stones/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/manasa_and_stones)
 
 Minimum Distances [Hackerrank](https://www.hackerrank.com/challenges/minimum-distances/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/minimum_distances)
 
