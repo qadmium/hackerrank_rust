@@ -43,6 +43,8 @@ Beautiful Triplets [Hackerrank](https://www.hackerrank.com/challenges/beautiful-
 
 Between Two Sets [Hackerrank](https://www.hackerrank.com/challenges/between-two-sets/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/between_two_sets)
 
+Bigger is Greater [Hackerrank](https://www.hackerrank.com/challenges/bigger-is-greater/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/bigger_is_greater)
+
 Bon Appétit [Hackerrank](https://www.hackerrank.com/challenges/bon-appetit/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/bon_appetit)
 
 Cavity Map [Hackerrank](https://www.hackerrank.com/challenges/cavity-map/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/cavity_map)
