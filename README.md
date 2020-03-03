@@ -93,6 +93,8 @@ Sherlock and Squares [Hackerrank](https://www.hackerrank.com/challenges/sherlock
 
 Sock Merchant [Hackerrank](https://www.hackerrank.com/challenges/sock-merchant/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/sock_merchant)
 
+The Grid Search [Hackerrank](https://www.hackerrank.com/challenges/the-grid-search/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/the_grid_search)
+
 The Time in Words [Hackerrank](https://www.hackerrank.com/challenges/the-time-in-words/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/the_time_in_words)
 
 Utopian Tree [Hackerrank](https://www.hackerrank.com/challenges/utopian-tree/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/utopian_tree)
