@@ -67,6 +67,8 @@ Extra Long Factorials [Hackerrank](https://www.hackerrank.com/challenges/extra-l
 
 Find Digits [Hackerrank](https://www.hackerrank.com/challenges/find-digits/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/find_digits)
 
+Flatland Space Stations [Hackerrank](https://www.hackerrank.com/challenges/flatland-space-stations/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/flatland_space_stations)
+
 Halloween Sale [Hackerrank](https://www.hackerrank.com/challenges/halloween-sale/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/halloween_sale)
 
 Jumping on the Clouds [Hackerrank](https://www.hackerrank.com/challenges/jumping-on-the-clouds/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/jumping_on_the_clouds)
