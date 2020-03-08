@@ -65,6 +65,8 @@ Equalize the Array [Hackerrank](https://www.hackerrank.com/challenges/equality-i
 
 Extra Long Factorials [Hackerrank](https://www.hackerrank.com/challenges/extra-long-factorials/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/extra_long_factorials)
 
+Fair Rations [Hackerrank](https://www.hackerrank.com/challenges/fair-rations/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/fair_rations)
+
 Find Digits [Hackerrank](https://www.hackerrank.com/challenges/find-digits/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/find_digits)
 
 Flatland Space Stations [Hackerrank](https://www.hackerrank.com/challenges/flatland-space-stations/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/flatland_space_stations)
