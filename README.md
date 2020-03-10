@@ -31,6 +31,8 @@ Reverse Shuffle Merge [Hackerrank](https://www.hackerrank.com/challenges/reverse
 Sherlock and The Beast [Hackerrank](https://www.hackerrank.com/challenges/sherlock-and-the-beast/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/scherlock_and_the_beast)
 
 ## Implementation
+3D Surface Area [Hackerrank](https://www.hackerrank.com/challenges/3d-surface-area/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/threed_surface_area)
+
 ACM ICPC Team [Hackerrank](https://www.hackerrank.com/challenges/acm-icpc-team/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/acm_icpc_team)
 
 Angry Professor [Hackerrank](https://www.hackerrank.com/challenges/angry-professor/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/angry_professor)
