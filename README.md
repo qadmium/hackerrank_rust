@@ -83,6 +83,8 @@ Lisa's Workbook [Hackerrank](https://www.hackerrank.com/challenges/lisa-workbook
 
 Manasa and Stones [Hackerrank](https://www.hackerrank.com/challenges/manasa-and-stones/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/manasa_and_stones)
 
+Matrix Layer Rotation [Hackerrank](https://www.hackerrank.com/challenges/matrix-rotation-algo/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/matrix_rotation_algo)
+
 Minimum Distances [Hackerrank](https://www.hackerrank.com/challenges/minimum-distances/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/minimum_distances)
 
 Organizing Containers of Balls [Hackerrank](https://www.hackerrank.com/challenges/organizing-containers-of-balls/) [src](https://github.com/qadmium/hackerrank_rust/tree/master/)
